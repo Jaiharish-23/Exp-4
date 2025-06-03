@@ -1,5 +1,8 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
 
+## REG NO: 212224040124
+## NAME: JAI HARISH R
+
 # AIM:
 To draw a UML diagram for a Hospital management system
 # SRS (Procedure):
